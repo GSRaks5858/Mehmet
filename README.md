@@ -1,3 +1,10 @@
+!!!!! OYUN ACILMASI GEREKEN SİTE
+https://codebeautify.org/htmlviewer#
+
+
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
